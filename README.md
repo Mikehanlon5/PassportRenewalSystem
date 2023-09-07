@@ -2,6 +2,8 @@
 A Passport Renewal Model Implementation using Javascript, MongoDB, Node.js, HTML, and CSS
 
 # To Run:
+Open and extract the two zip files in working folder
+
 Make sure you javascript, express, MongoDB community (Offline), and node.js frameworks installed
 
 Initiate MongoDB server on port 27017 for server.js
